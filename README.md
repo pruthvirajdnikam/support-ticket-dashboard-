@@ -1,2 +1,2 @@
-# support-ticket-dashboard-
-A web dashboard for creating, tracking, and managing support tickets with real-time status updates and analytics.
+# ticket-summary-dashboard-python
+A Python-based backend and dashboard that ingests raw ticket datasets, performs automated data cleaning, and generates summary reports (Aging, TAT, and Resolved %) by District and Team.
